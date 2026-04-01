@@ -1,4 +1,4 @@
 Django==5.1.6
-requests==2.32.3
+requests==2.32.4
 psycopg2==2.9.10
 iso8601==2.1.0
